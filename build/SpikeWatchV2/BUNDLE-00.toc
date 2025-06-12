@@ -1,0 +1,3 @@
+([('SpikeWatchV2',
+   '/Users/nacharya/Desktop/SpikeWatch/dist/SpikeWatchV2',
+   'EXECUTABLE')],)
